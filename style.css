@@ -1,0 +1,72 @@
+body{
+    overflow-x: hidden;
+}
+.nav-item .nav-link{
+    color:white;
+}
+
+.header{
+    
+    background-color: #264653;
+    color: white;
+    
+}
+
+
+.feturebike1{
+    width: 288px;
+    height: 243px;
+    margin-right: 130px;
+}
+.bike img{
+    filter: grayscale(100%);
+}
+.feturebike2{
+    width: 288px;
+    height: 243px;
+    margin-right: 130px;
+    
+}
+.feturebike3{
+    width: 288px;
+    height: 243px;
+    
+}
+
+.latest{
+    text-align: center;
+    font-weight: 700;
+}
+.text-color{
+    color: #E76F51;
+}
+.card-img-top1{
+    width: 149px;
+    height: 149px;
+   
+}
+.stars{
+    color: #E76F51;
+}
+.accordion-item{
+    border-color:#D5E5FB;
+    
+}
+
+
+.logo{
+    padding: 0.95px 2px 1px  0.95px  ;
+}
+.end{
+    margin-left:5rem;
+    margin-top: 1.5rem;
+}
+.buttonlog {
+    background-color: #E76F51;
+    /* size: 10px ; */
+   
+}
+.btn{
+    border-color: #E76F51;
+}
+
